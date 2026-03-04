@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://norfolkrestorationco.com/sitemap.xml
